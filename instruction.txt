@@ -1,0 +1,36 @@
+Hi Mr. Ahmed Mohammed and welcome to your project task for today, Monday 16th March, 2020 
+
+This week is about major improvement on your part. 
+
+ACHIEVABLE GOALS FOR THE WEEK
+
+1. You will learn to be more professional in completing your task within the set time frame.
+
+2. You will learn to be more detailed when developing the UI (user interface).
+	ADVISOR : Calvin - UI/UX Specialist
+	ADVISOR : Jeffery - Business Analyst / UI/UX Specialist
+
+3. You will learn to make better decision when developing the web page logic.
+	ADVISOR : Akin - Front-end lead software engineer.
+
+4. You will learn how to present your task as a professional, explaining in details what your task is
+   about from start to finish.
+	ADVISOR : Jeffery - Business Analyst / UI/UX Specialist
+
+TASK
+	1. Revise already presented tasks and make changes as advised by your superiors and others
+	   during presentation.
+	2. Take your time to work on the look and feel of the view 
+	   a. work on the font size
+           b. choice of font
+           c. button and text alignment
+           d. proper spacing among page elements.
+           e. page responsiveness on all screen sizes.
+	3. If not clear, meet with Calvin or Jeffrey, the UI / UX Specialist to advice you
+           on changes to be made. 
+	4. Make sure to complete all changes today, Monday 16th March, 2020.
+	5. Make sure to update the Git repo for assigned tasks.
+	6. Complete the reflection form document located in the REFLECTION folder.
+	7. Update the project plan documentation always.
+
+Thank you for your time. Good luck.

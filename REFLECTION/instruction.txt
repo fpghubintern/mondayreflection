@@ -1,0 +1,25 @@
+1. REFLECTION DOCUMENTATION:
+     a. Reflection on what you've learnt so far in clear and conscise details.
+
+	 i. How many projects have you worked on :
+		
+	    a.	Project Details :
+			Name of project :
+			Assignee:
+			Date Assigned:
+			Date Submitted:
+			Date Reviewed:
+			People in attendance during review:
+
+	    b.	Did you make changes to the presentation as advised by your superiors?
+		a. Yes 		b. No
+
+	    c.	Did you push your completed task to github under your branch name ?
+		a. Yes		b. No
+
+       ii. How you plan to achive your task for this week.
+      iii. Time to be spent in achiveing your task for this week. (Set a time limit and work within the set time)
+       iv. Materials (Online and Offline) to be used in preparing and achieving your task.
+	v. What benefits would you derive from completing the task.
+       vi. What expectations do you have after completing the task.
+
